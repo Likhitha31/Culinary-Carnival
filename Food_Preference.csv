@@ -1,0 +1,289 @@
+Timestamp,Participant_ID,Country_ID,Gender,Country,Age,Spice ,Category,Sub-Category,Juice,Dessert,Sales
+07 May 2019,FFP001,292,Male,Algeria ,24,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3977
+07 May 2019,FFP002,292,Female,Algeria ,22,Mild ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,2914
+07 May 2019,FFP003,292,Male,Algeria ,31,Mild ,Non-Veg,Seafood,Fresh Juice,Pastry,1328
+07 May 2019,FFP004,292,Female,Algeria ,25,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,1018
+07 May 2019,FFP005,292,Male,Algeria ,27,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3569
+07 May 2019,FFP006,292,Male,Algeria ,24,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3435
+07 May 2019,FFP007,292,Female,Algeria ,34,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3561
+07 May 2019,FFP008,292,Male,Pakistan ,24,Mild ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,3602
+07 May 2019,FFP009,292,Female,Algeria ,19,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4102
+07 May 2019,FFP010,292,Female,Algeria ,16,Mild ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2947
+07 May 2019,FFP011,636,Male,Tanzania,23,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2954
+07 May 2019,FFP012,292,Female,Algeria ,22,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4526
+07 May 2019,FFP013,207,Female,Indonesia,22,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4171
+07 May 2019,FFP014,292,Female,Algeria ,24,Mild ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,4470
+07 May 2019,FFP015,50,Male,Pakistan,27,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3141
+07 May 2019,FFP016,50,Male,Pakistan,25,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,4913
+07 May 2019,FFP017,292,Male,Maldives ,26,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2625
+07 May 2019,FFP018,408,Male,Malaysia,22,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4237
+07 May 2019,FFP019,408,Female,Malaysia,38,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3292
+07 May 2019,FFP020,292,Female,Algeria ,31,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3317
+07 May 2019,FFP021,292,Male,Malaysia ,21,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,4045
+07 May 2019,FFP022,207,Male,Indonesia,20,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3528
+07 May 2019,FFP023,408,Male,Malaysia,20,Mild ,Non-Veg,Seafood,Fresh Juice,Pastry,4048
+07 May 2019,FFP024,408,Male,Malaysia,22,Mild ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4671
+07 May 2019,FFP025,408,Male,Malaysia,20,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4076
+07 May 2019,FFP026,292,Female,Indonesia ,24,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3240
+07 May 2019,FFP027,101,Male,India,43,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1327
+07 May 2019,FFP028,848,Female,Maldives,29,Mild ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4210
+07 May 2019,FFP029,101,Male,India,39,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,3505
+07 May 2019,FFP030,101,Male,India,26,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3986
+07 May 2019,FFP031,408,Male,Malaysia,21,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,3202
+07 May 2019,FFP032,408,Female,Malaysia,40,Mild ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2107
+07 May 2019,FFP033,101,Male,India,13,Mild ,Veg,Plant Based,Carbonated Drinks,Pastry,3403
+07 May 2019,FFP034,101,Male,India,13,Mild ,Non-Veg,Seafood,Fresh Juice,Pastry,2146
+07 May 2019,FFP035,101,Male,India,13,Mild ,Non-Veg,Seafood,Fresh Juice,Pastry,3785
+07 May 2019,FFP036,292,Male,Malaysia ,24,Mild ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1054
+07 May 2019,FFP037,101,Male,India,13,Mild ,Non-Veg,Seafood,Fresh Juice,Pastry,4756
+07 May 2019,FFP038,101,Male,India,24,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3498
+07 May 2019,FFP039,408,Male,Malaysia,21,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1044
+07 May 2019,FFP040,101,Female,India,34,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4977
+07 May 2019,FFP041,292,Female,Pakistan ,18,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4870
+07 May 2019,FFP042,50,Male,Pakistan,26,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1787
+07 May 2019,FFP043,676,Male,Saudi Arabia,24,Mild ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4240
+07 May 2019,FFP044,50,Male,Pakistan,60,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,3636
+07 May 2019,FFP045,408,Male,Malaysia,21,Mild ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,1071
+07 May 2019,FFP046,292,Female,Nigeria ,21,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1259
+07 May 2019,FFP047,50,Male,Pakistan,24,Mild ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1528
+07 May 2019,FFP048,101,Male,India,25,Mild ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3736
+07 May 2019,FFP049,101,Male,India,23,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3617
+07 May 2019,FFP050,292,Female,Algeria ,25,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3779
+07 May 2019,FFP051,101,Female,India,22,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1691
+07 May 2019,FFP052,292,Male,South Korea ,27,Mild ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1649
+07 May 2019,FFP053,292,Male,South Korea ,26,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2357
+07 May 2019,FFP054,292,Female,South Korea ,30,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1472
+07 May 2019,FFP055,101,Female,India,25,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2428
+07 May 2019,FFP056,101,Male,India,23,Mild ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,2738
+07 May 2019,FFP057,101,Female,India,25,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3778
+07 May 2019,FFP058,101,Male,India,21,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2929
+07 May 2019,FFP059,848,Male,Maldives,47,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,4030
+07 May 2019,FFP060,848,Male,Maldives,21,Mild ,Veg,Plant Based,Carbonated Drinks,Pastry,1162
+07 May 2019,FFP061,848,Female,Maldives,25,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3441
+07 May 2019,FFP062,848,Female,Maldives,30,Mild ,Non-Veg,Seafood,Fresh Juice,Pastry,3465
+07 May 2019,FFP063,848,Female,Maldives,54,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,1635
+07 May 2019,FFP064,424,Male,seychelles,23,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,2086
+07 May 2019,FFP065,848,Male,Maldives,27,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,1185
+07 May 2019,FFP066,848,Male,Maldives,74,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,1250
+07 May 2019,FFP067,848,Female,Maldives,27,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3220
+07 May 2019,FFP068,207,Male,Indonesia,19,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4856
+07 May 2019,FFP069,207,Male,Indonesia,19,Mild ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,1323
+07 May 2019,FFP070,848,Female,Maldives,80,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1616
+07 May 2019,FFP071,101,Female,India,25,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,3373
+07 May 2019,FFP072,101,Male,India,34,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1100
+07 May 2019,FFP073,207,Female,Indonesia,19,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4545
+07 May 2019,FFP074,101,Female,India,80,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1539
+07 May 2019,FFP075,101,Female,India,33,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,1854
+07 May 2019,FFP076,101,Male,India,33,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4795
+07 May 2019,FFP077,101,Female,India,40,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1491
+07 May 2019,FFP078,408,Male,Malaysia,21,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1816
+07 May 2019,FFP079,101,Male,India,36,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3574
+07 May 2019,FFP080,101,Female,India,28,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1178
+07 May 2019,FFP081,101,Female,India,28,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2487
+07 May 2019,FFP082,408,Female,Malaysia,19,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3225
+07 May 2019,FFP083,101,Female,India,21,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3168
+07 May 2019,FFP084,101,Female,India,40,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3435
+07 May 2019,FFP085,706,Male,Japan,28,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4482
+07 May 2019,FFP086,101,Female,India,32,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3629
+07 May 2019,FFP087,101,Female,India,38,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4978
+07 May 2019,FFP088,101,Female,India,36,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2450
+07 May 2019,FFP089,408,Female,Malaysia,30,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1748
+07 May 2019,FFP090,207,Male,Indonesia,19,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3255
+07 May 2019,FFP091,101,Female,India,60,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2528
+07 May 2019,FFP092,408,Female,Malaysia,20,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2300
+07 May 2019,FFP093,101,Female,India,39,Mild ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,2929
+07 May 2019,FFP094,207,Male,Indonesia,22,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4916
+07 May 2019,FFP095,545,Female,China,23,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2083
+07 May 2019,FFP096,101,Female,India,31,Mild ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,1530
+07 May 2019,FFP097,101,Female,India,31,Mild ,Veg,Plant Based,Carbonated Drinks,Pastry,2175
+07 May 2019,FFP098,409,Female,Mauritius,23,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4723
+07 May 2019,FFP099,101,Male,India,23,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,2725
+07 May 2019,FFP100,706,Female,Japan,34,Mild ,Non-Veg,Seafood,Fresh Juice,Pastry,1602
+07 May 2019,FFP101,101,Female,India,25,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,2062
+07 May 2019,FFP102,101,Male,India,38,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2188
+07 May 2019,FFP103,408,Male,Malaysia,19,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1047
+07 May 2019,FFP104,101,Female,India,19,Mild ,Veg,Plant Based,Carbonated Drinks,Pastry,4528
+07 May 2019,FFP105,101,Female,India,24,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3970
+07 May 2019,FFP106,101,Female,India,20,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2439
+07 May 2019,FFP107,292,Female,South Korea ,20,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2164
+07 May 2019,FFP108,292,Female,South Korea ,54,Spicy ,Non-Veg,Meat,Fresh Juice,Pastry,4785
+07 May 2019,FFP109,101,Male,India,22,Mild ,Veg,Milk Based,Carbonated Drinks,Pastry,1401
+07 May 2019,FFP110,101,Female,India,16,Mild ,Non-Veg,Meat,Fresh Juice,Pastry,3539
+07 May 2019,FFP111,101,Male,India,23,Mild ,Non-Veg,Meat,Fresh Juice,Pastry,4813
+07 May 2019,FFP112,101,Female,India,47,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2027
+07 May 2019,FFP113,101,Male,India,54,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2683
+07 May 2019,FFP114,101,Female,India,54,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1513
+07 May 2019,FFP115,151,Male,Yemen,30,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4056
+07 May 2019,FFP116,101,Male,India,23,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1977
+07 May 2019,FFP117,101,Female,India,32,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1898
+07 May 2019,FFP118,409,Female,Mauritius,29,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2544
+07 May 2019,FFP119,409,Female,Mauritius,8,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3691
+07 May 2019,FFP120,409,Female,Mauritius,26,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3042
+07 May 2019,FFP121,409,Female,Mauritius,27,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2811
+07 May 2019,FFP122,409,Male,Mauritius,12,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,1099
+07 May 2019,FFP123,409,Female,Mauritius,29,Mild ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2391
+07 May 2019,FFP124,409,Male,Mauritius,19,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,1043
+07 May 2019,FFP125,409,Male,Mauritius,56,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,3812
+07 May 2019,FFP126,409,Female,Mauritius,53,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,2959
+07 May 2019,FFP127,207,Male,Indonesia,20,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2878
+07 May 2019,FFP128,207,Male,Indonesia,19,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,4389
+07 May 2019,FFP129,409,Female,Mauritius,33,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3400
+07 May 2019,FFP130,409,Male,Mauritius,26,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3421
+07 May 2019,FFP131,409,Female,Mauritius,31,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3295
+07 May 2019,FFP132,409,Male,Mauritius,29,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3663
+07 May 2019,FFP133,545,Female,China,32,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1854
+07 May 2019,FFP134,545,Female,China,39,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,4732
+07 May 2019,FFP135,545,Female,China,28,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4764
+07 May 2019,FFP136,545,Female,China,30,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2942
+07 May 2019,FFP137,848,Female,Maldives,28,Mild ,Veg,Plant Based,Carbonated Drinks,Pastry,4089
+07 May 2019,FFP138,545,Female,China,30,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4614
+07 May 2019,FFP139,545,Male,China,59,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2236
+07 May 2019,FFP140,545,Male,China,67,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,4516
+07 May 2019,FFP141,545,Female,China,63,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1121
+07 May 2019,FFP142,545,Male,China,18,Mild ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,1087
+07 May 2019,FFP143,545,Female,China,37,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4819
+07 May 2019,FFP144,545,Female,China,38,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4442
+07 May 2019,FFP145,676,Male,Saudi Arabia,38,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1264
+07 May 2019,FFP146,676,Male,Saudi Arabia,25,Mild ,Veg,Plant Based,Carbonated Drinks,Pastry,4793
+07 May 2019,FFP147,545,Female,China,24,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1392
+07 May 2019,FFP148,545,Female,China,33,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3896
+07 May 2019,FFP149,545,Female,China,40,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2632
+07 May 2019,FFP150,545,Male,China,28,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1158
+07 May 2019,FFP151,545,Male,China,27,Mild ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2475
+07 May 2019,FFP152,545,Male,China,24,Spicy ,Non-Veg,Meat,Fresh Juice,Pastry,2974
+07 May 2019,FFP153,545,Male,China,25,Spicy ,Non-Veg,Meat,Fresh Juice,Pastry,1360
+07 May 2019,FFP154,50,Male,Pakistan,28,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1314
+07 May 2019,FFP155,545,Male,China,15,Mild ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,1849
+07 May 2019,FFP156,545,Female,China,40,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4744
+07 May 2019,FFP157,101,Female,India,35,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3559
+07 May 2019,FFP158,101,Male,India,9,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4009
+07 May 2019,FFP159,50,Male,Pakistan,30,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,1259
+07 May 2019,FFP160,101,Male,India,24,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4415
+07 May 2019,FFP161,101,Male,India,28,Mild ,Non-Veg,Seafood,Fresh Juice,Pastry,3018
+07 May 2019,FFP162,101,Female,India,65,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4014
+07 May 2019,FFP163,207,Female,Indonesia,25,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3987
+07 May 2019,FFP164,101,Female,India,33,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3898
+07 May 2019,FFP165,101,Male,India,33,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3574
+07 May 2019,FFP166,207,Female,Indonesia,27,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1491
+07 May 2019,FFP167,101,Female,India,27,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3398
+07 May 2019,FFP168,101,Male,India,26,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3753
+07 May 2019,FFP169,101,Female,India,25,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4672
+07 May 2019,FFP170,101,Female,India,25,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,1004
+07 May 2019,FFP171,408,Male,Malaysia,34,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2955
+07 May 2019,FFP172,101,Female,India,25,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2914
+07 May 2019,FFP173,101,Female,India,26,Mild ,Veg,Plant Based,Carbonated Drinks,Pastry,4104
+07 May 2019,FFP174,101,Female,India,21,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4304
+07 May 2019,FFP175,101,Female,India,26,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2166
+07 May 2019,FFP176,101,Female,India,25,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,1710
+07 May 2019,FFP177,101,Male,India,30,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2545
+07 May 2019,FFP178,101,Male,India,9,Mild ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4956
+08 May 2019,FFP179,706,Female,Japan,39,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,4493
+08 May 2019,FFP180,101,Female,India,35,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1643
+08 May 2019,FFP181,101,Female,India,30,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2434
+08 May 2019,FFP182,101,Female,India,45,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4366
+08 May 2019,FFP183,101,Female,India,38,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1776
+08 May 2019,FFP184,706,Female,Japan,30,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3256
+08 May 2019,FFP185,101,Female,India,35,Mild ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1547
+08 May 2019,FFP186,101,Female,India,40,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3432
+08 May 2019,FFP187,101,Female,India,29,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1640
+08 May 2019,FFP188,207,Female,Indonesia,45,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4617
+08 May 2019,FFP189,101,Female,India,33,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2135
+08 May 2019,FFP190,101,Female,India,35,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1707
+08 May 2019,FFP191,101,Female,India,50,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3862
+08 May 2019,FFP192,101,Male,India,23,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4546
+08 May 2019,FFP193,50,Female,Pakistan,40,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,1698
+08 May 2019,FFP194,101,Female,India,50,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1897
+08 May 2019,FFP195,101,Male,India,31,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2415
+08 May 2019,FFP196,101,Female,India,33,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2452
+08 May 2019,FFP197,101,Female,India,37,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2120
+08 May 2019,FFP198,101,Female,India,35,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4345
+08 May 2019,FFP199,101,Female,India,49,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3714
+08 May 2019,FFP200,101,Female,India,42,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3953
+08 May 2019,FFP201,101,Female,India,31,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3714
+08 May 2019,FFP202,101,Male,India,34,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2533
+08 May 2019,FFP203,101,Female,India,51,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3099
+08 May 2019,FFP204,101,Female,India,39,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,3196
+08 May 2019,FFP205,292,Female,South Korea ,28,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1949
+08 May 2019,FFP206,706,Female,Japan,23,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2462
+08 May 2019,FFP207,101,Female,India,24,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,1004
+08 May 2019,FFP208,101,Female,India,40,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,3727
+08 May 2019,FFP209,676,Female,Saudi Arabia,37,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2894
+08 May 2019,FFP210,101,Female,India,30,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4387
+08 May 2019,FFP211,101,Female,India,34,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1674
+08 May 2019,FFP212,101,Female,India,37,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2832
+08 May 2019,FFP213,101,Female,India,45,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,2440
+08 May 2019,FFP214,207,Female,Indonesia,21,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,4877
+08 May 2019,FFP215,101,Female,India,28,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3004
+08 May 2019,FFP216,101,Female,India,24,Mild ,Veg,Plant Based,Carbonated Drinks,Pastry,3204
+08 May 2019,FFP217,101,Female,India,24,Mild ,Veg,Plant Based,Carbonated Drinks,Pastry,1299
+08 May 2019,FFP218,101,Female,India,37,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4845
+08 May 2019,FFP219,101,Female,India,44,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4241
+08 May 2019,FFP220,101,Male,India,30,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4633
+08 May 2019,FFP221,151,Female,Yemen,40,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,2629
+08 May 2019,FFP222,207,Male,Indonesia,38,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3953
+08 May 2019,FFP223,101,Female,India,33,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1573
+08 May 2019,FFP224,101,Female,India,38,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4712
+08 May 2019,FFP225,151,Male,Yemen,38,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2230
+08 May 2019,FFP226,292,Female,Nigeria ,30,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2566
+08 May 2019,FFP227,292,Female,Nigeria ,37,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2576
+08 May 2019,FFP228,292,Female,Nigeria ,34,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2164
+08 May 2019,FFP229,292,Female,Nigeria ,56,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4898
+08 May 2019,FFP230,292,Male,Nigeria ,40,Mild ,Non-Veg,Seafood,Fresh Juice,Pastry,3798
+08 May 2019,FFP231,292,Male,Nigeria ,38,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2634
+08 May 2019,FFP232,151,Female,Yemen,42,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,1554
+08 May 2019,FFP233,292,Female,Nigeria ,24,Mild ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,4443
+08 May 2019,FFP234,292,Female,Nigeria ,25,Mild ,Non-Veg,Seafood,Fresh Juice,Pastry,4876
+08 May 2019,FFP235,292,Female,Nigeria ,36,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3751
+08 May 2019,FFP236,292,Male,Nigeria ,18,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2538
+08 May 2019,FFP237,292,Female,Nigeria ,30,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1163
+08 May 2019,FFP238,50,Female,Pakistan,39,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4455
+08 May 2019,FFP239,292,Female,Nigeria ,45,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,4018
+08 May 2019,FFP240,101,Female,India,24,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,3474
+08 May 2019,FFP241,101,Male,India,9,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,3079
+08 May 2019,FFP242,207,Female,Indonesia,50,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3917
+08 May 2019,FFP243,101,Female,India,22,Mild ,Non-Veg,Seafood,Fresh Juice,Pastry,3676
+08 May 2019,FFP244,101,Female,India,40,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4702
+08 May 2019,FFP245,409,Female,Mauritius,36,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,1662
+08 May 2019,FFP246,101,Female,India,35,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3671
+08 May 2019,FFP247,101,Female,India,35,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2602
+08 May 2019,FFP248,101,Female,India,40,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1497
+08 May 2019,FFP249,101,Female,India,32,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2020
+08 May 2019,FFP250,101,Female,India,28,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,1455
+08 May 2019,FFP251,101,Female,India,25,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2837
+08 May 2019,FFP252,101,Female,India,27,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3779
+08 May 2019,FFP253,101,Female,India,28,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3978
+08 May 2019,FFP254,101,Female,India,38,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,2973
+08 May 2019,FFP255,101,Female,India,17,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2770
+09 May 2019,FFP256,101,Male,India,42,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3335
+09 May 2019,FFP257,207,Female,Indonesia,42,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4183
+09 May 2019,FFP258,636,Female,Tanzania,37,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4882
+09 May 2019,FFP259,636,Female,Tanzania,42,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2166
+09 May 2019,FFP260,636,Female,Tanzania,37,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3199
+09 May 2019,FFP261,636,Female,Tanzania,46,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,3121
+09 May 2019,FFP262,636,Female,Tanzania,36,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3851
+10 May 2019,FFP263,636,Male,Tanzania,26,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,2599
+10 May 2019,FFP264,636,Male,Tanzania,27,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3979
+10 May 2019,FFP265,636,Male,Tanzania,25,Spicy ,Non-Veg,Meat,Fresh Juice,Pastry,2173
+10 May 2019,FFP266,636,Male,Tanzania,27,Mild ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4836
+10 May 2019,FFP267,636,Male,Tanzania,27,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3492
+10 May 2019,FFP268,636,Male,Tanzania,25,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4044
+10 May 2019,FFP269,636,Female,Tanzania,23,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4448
+10 May 2019,FFP270,636,Male,Tanzania,26,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3864
+10 May 2019,FFP271,636,Male,Tanzania,23,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,1791
+10 May 2019,FFP272,292,Male,Iran,28,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4314
+10 May 2019,FFP273,292,Male,South Korea ,23,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,3993
+10 May 2019,FFP274,292,Female,Iran,22,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4698
+10 May 2019,FFP275,292,Male,Iran,29,Mild ,Non-Veg,Seafood,Fresh Juice,Pastry,4838
+10 May 2019,FFP276,292,Male,Iran,30,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2239
+10 May 2019,FFP277,706,Male,Japan,28,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,2220
+10 May 2019,FFP278,292,Female,Iran,26,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4440
+10 May 2019,FFP279,292,Male,Iran,25,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,3180
+10 May 2019,FFP280,706,Male,Japan,24,Spicy ,Veg,Plant Based,Carbonated Drinks,Pastry,4919
+10 May 2019,FFP281,292,Male,Iran,25,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4831
+10 May 2019,FFP282,292,Male,Iran,27,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,4272
+10 May 2019,FFP283,292,Male,Iran,27,Spicy ,Non-Veg,Seafood,Fresh Juice,Pastry,2483
+10 May 2019,FFP284,292,Male,South Korea ,27,Mild ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3179
+10 May 2019,FFP285,292,Male,South Korea ,24,Spicy ,Veg,Milk Based,Carbonated Drinks,Ice-Cream,4816
+10 May 2019,FFP286,292,Male,Iran,25,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3594
+10 May 2019,FFP287,292,Male,Iran,27,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,4907
+10 May 2019,FFP288,292,Male,Iran,27,Spicy ,Non-Veg,Meat,Fresh Juice,Ice-Cream,3457
